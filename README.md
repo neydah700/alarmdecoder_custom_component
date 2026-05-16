@@ -1,0 +1,1 @@
+# alarmdecoder_custom_component
